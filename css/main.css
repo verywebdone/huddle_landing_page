@@ -61,7 +61,7 @@ body span {
 }
 
 body header {
-  background-image: url(./images/bg-hero-mobile.svg);
+  background-image: url(../css/images/bg-hero-mobile.svg);
   background-position: center -2.8em;
   background-repeat: no-repeat;
   height: 100vh;
